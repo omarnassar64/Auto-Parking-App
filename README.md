@@ -30,4 +30,27 @@ A custom **Flutter mobile application** developed to control an intelligent auto
 ---
 
 ## App Structure
+/Flutter_App
+├── lib/
+│ ├── main.dart
+│ ├── screens/
+│ │ ├── manual_mode_screen.dart
+│ │ └── autonomous_mode_screen.dart
+│ ├── widgets/
+│ │ └── control_buttons.dart
+│ └── services/
+│ └── bluetooth_service.dart
+└── pubspec.yaml
+
+---
+
+## Resources
+- **Flutter App Repository**: [GitHub Link](#)  
+
+---
+
+## Learning Outcomes
+- Integration of mobile app with embedded systems.
+- Real-time communication and control over Bluetooth.
+- Designing responsive and user-friendly interfaces in Flutter.
 
