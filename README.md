@@ -41,12 +41,7 @@ A custom **Flutter mobile application** developed to control an intelligent auto
 │ └── services/
 │ └── bluetooth_service.dart
 └── pubspec.yaml
-
----
-
-## Resources
-- **Flutter App Repository**: [GitHub Link](#)  
-
+ 
 ---
 
 ## Learning Outcomes
